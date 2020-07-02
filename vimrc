@@ -1,10 +1,8 @@
-"Enabling filetype support provides filetype-specific indenting,
-"syntax highlighting, omni-completion and other useful settings.
+
 filetype plugin indent on
 syntax on
 
-" `matchit.vim` is built-in so let's enable it!
-" Hit `%` on `if` to jump to `else`.
+
 runtime macros/matchit.vim
 
 
